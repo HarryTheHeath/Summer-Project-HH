@@ -13,7 +13,7 @@ As I've never developed from scratch in UE5, I saw this assignment as an opportu
 
 ## Shipped Features
 
-# Quests & Interactions
+### Quests & Interactions
 - Interactable NPCs with Quest and Multi-Choice Dialogue capabilities
 - Collection and Target Location Quests
 - Unlocks to new areas and for mew abilities based on Collection Progress
@@ -23,14 +23,14 @@ As I've never developed from scratch in UE5, I saw this assignment as an opportu
 - Wider Player Interaction System (Press E)
 
 
-# Movement & Abilities
+### Movement & Abilities
 - Locomotion Animation States: Idle -> Sneaking -> Walking -> Sprinting
 - Double Jump locked behing a progress event
 - Stamina System with UI Depletion Bar and Movement Exhaustion Penalty
 - Boat Pawn Possession and control, with complete buoyancy in the water
 - Spectator Camera Mode (Press P)
 
-# Engine Creations
+### Engine Creations
 - World Design, Landscaping, Foliage Painting, Water Body Creation
 - Pixelated Post-Processing Camera Effects
 - Camera Transitions when entering Dialogue or Possessing Pawns
