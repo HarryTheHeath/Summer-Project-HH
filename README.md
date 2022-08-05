@@ -1,5 +1,5 @@
 # 2022 Forsbergs Skola Summer Project 
-![An Island Away Thumbnail](https://user-images.githubusercontent.com/90158105/183003287-321d121b-b4fe-4199-8220-c83fd307df28.png)
+![An Island Away](https://user-images.githubusercontent.com/90158105/183082412-39aaf688-a9d6-4b6c-8f4d-884e08cbff1c.png)
 
 **An Island Away** is a 5-week-long project I undertook to create a 3D platformer in UE5.
 
