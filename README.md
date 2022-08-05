@@ -13,19 +13,28 @@ As I've never developed from scratch in UE5, I saw this assignment as an opportu
 
 ## Shipped Features
 
-- World Design, Landscaping, Foliage Painting, Water Body Creation
+### Quests & Interactions
 - Interactable NPCs with Quest and Multi-Choice Dialogue capabilities
 - Collection and Target Location Quests
-- Locomotion Animation States: Idle -> Sneaking -> Walking -> Sprinting
-- Stamina System with UI Depletion Bar and Movement Exhaustion Penalty
-- Player Interaction System
-- Jump & Double Jump
-- Boat Pawn Possession and control, with complete buoyancy in the water
+- Unlocks to new areas and for mew abilities based on Collection Progress
 - Coin & Key Collectibles with animations, sounds, and adaptive UI
-- Spectator Camera Mode
 - Readable Signs & Directional Posts
 - Progress Tracking for Quests and Collectables
-- Pixelated Post-Processing Effects
+- Wider Player Interaction System (Press E)
+
+
+### Movement & Abilities
+- Locomotion Animation States: Idle -> Sneaking -> Walking -> Sprinting
+- Double Jump locked behing a progress event
+- Stamina System with UI Depletion Bar and Movement Exhaustion Penalty
+- Boat Pawn Possession and control, with complete buoyancy in the water
+- Spectator Camera Mode (Press P)
+
+### Engine Creations
+- World Design, Landscaping, Foliage Painting, Water Body Creation
+- Pixelated Post-Processing Camera Effects
 - Camera Transitions when entering Dialogue or Possessing Pawns
 - Responsive UI with Animations for Coins, the Stamina Bar, and Collectibles
 - Actors with Physics Simulation features such as buoyant objects
+- Animation Retargeting
+- Integration of a wide range of Assets
