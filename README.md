@@ -64,5 +64,13 @@ As I've never developed from scratch in UE5, I saw this assignment as an opportu
 # Buoyancy and Water Physics
 ![Floating](https://user-images.githubusercontent.com/90158105/183081493-99090ed9-1b14-4cc5-8d86-a5876cc88c7e.png)
 
+# Interactive Signs
+![Arrow Sign](https://user-images.githubusercontent.com/90158105/183100071-911a4004-ea78-46d2-bfdf-bf0f9f8957da.png)
+
+# Dialogue Choices
+![Accepting a Quest](https://user-images.githubusercontent.com/90158105/183099582-c6ce17b4-01b5-4303-a371-ef5c35eecaec.png)
+
+
 # Initial Base Landscaping
+![Capture](https://user-images.githubusercontent.com/90158105/183100365-69447aa0-8c70-4d41-8f63-922b75b0c945.JPG)
 ![Capture2](https://user-images.githubusercontent.com/90158105/183081693-788b88a3-19de-4776-a720-b8928fcebc4c.JPG)
