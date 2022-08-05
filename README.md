@@ -38,6 +38,7 @@ As I've never developed from scratch in UE5, I saw this assignment as an opportu
 - Actors with Physics Simulation features such as buoyant objects
 - Animation Retargeting
 - Integration of a wide range of Assets
+- Atmopshere Effects for different times of day
 
 # Scenery
 ![Buildings](https://user-images.githubusercontent.com/90158105/183080902-a0149d2b-1f25-4d19-b66c-0ccf3c13e472.png)
